@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a data visualization practitioner and visual storyteller. Recently, I was a graphics reporter at the Washington Post. 
 
 <!--
 **helloeujin/helloeujin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
